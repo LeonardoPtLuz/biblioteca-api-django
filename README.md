@@ -3,7 +3,7 @@ API para cadastro de livros.
 Campos:
  - ID
  - Autor
- - Ano de lançamentos
+ - Ano de lançamento
  - Estado
  - Páginas
  - Editora
