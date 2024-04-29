@@ -1,4 +1,4 @@
-API para cadastro de livros.
+API RESTful para cadastro de livros.
 
 Campos:
  - ID
